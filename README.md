@@ -1,3 +1,1 @@
 # nosql
-# nosql
-# nosqlApp
