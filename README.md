@@ -1,1 +1,2 @@
-# CREATE A CLUSTER OF MONGODB NODES ON LOCAL MACHINE WITH REPLICA SET ACTING AS SHARDS
+#create a mongodb sharded cluster of nodes on local machine with replica set acting as shards
+#initiate all nodes and components of shards, mongos routers and config servers
