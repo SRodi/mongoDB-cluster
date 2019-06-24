@@ -1,2 +1,8 @@
-#create a mongodb sharded cluster of nodes on local machine with replica set acting as shards
-#initiate all nodes and components of shards, mongos routers and config servers
+### MongoDb sharded cluster of nodes with replica set acting as shards 
+
+### The script initiates all nodes and components of shards, mongos routers and config servers
+
+#### To Execute
+```
+bash script_cluster.sh
+```

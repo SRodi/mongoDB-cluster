@@ -1,5 +1,5 @@
 #!/bin/bash
-#R00090111
+#simone.rodigari@gmail.com
 #====functions
 createshardsfolders()
 { 
